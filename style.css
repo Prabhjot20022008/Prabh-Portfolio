@@ -65,20 +65,23 @@
     height: 50px;
     width: 120px;
     border: 2px solid white;
-    font-size: 22px;
-    font-weight: 600;
-    text-decoration: none;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.link:hover{
+.link a{
+    font-size: 22px;
+    font-weight: 600;
+    text-decoration: none;
+    color: grey;
+}
+.link a:hover{
     color: black;
     
 }
 
-.link:active{
+.link a:active{
     color: crimson;
 }
 
@@ -159,7 +162,6 @@
     color:crimson;
     font-weight: 900;
     padding: 5px 0px 0px 10px;
-    
     display: flex;
     justify-content: center;
 }
