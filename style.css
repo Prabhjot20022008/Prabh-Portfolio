@@ -14,6 +14,9 @@
     color: grey;
     background-color:cornsilk;
     display: flex;
+    position: fixed;
+    top: 0px;
+
 }
 
 .nav-bar-1{
@@ -95,6 +98,7 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-top: 60px;
 }
 
 .content-text{
