@@ -102,8 +102,8 @@
 }
 
 .content-text{
-    height: 525px;
-    width: 800px;
+    height: 600px;
+    width: 900px;
     /* border: 2px solid white;  */
     display: flex;
     justify-content: center;
@@ -434,12 +434,12 @@
 }
 
 .content-text-about-1{
-    height: 75px;
-    width: 280px;
-    /* border: 2px solid blue; */
+    height: 85px;
+    width: 310px;
+    /* border: 2px solid blue;  */
 }
 .content-text-about-1 p{
-    font-size: 70px;
+    font-size: 80px;
     font-weight: 600;
     color: crimson;
     font-family: fantasy;
@@ -468,7 +468,7 @@
     font-weight: 500;
 }
 
-.content-text-about-2-a:hover{
+.content-text-about-2-a p:hover{
     color: crimson;
 }
 
@@ -517,7 +517,7 @@
 
 .content-text-skills{
     height: 300px;
-    width: 750px;
+    width: 600px;
     /* border: 2px solid black;  */
     padding: 10px;
     color:cornsilk; 
@@ -565,7 +565,7 @@
     font-weight: 500;
 }
 
-.content-text-skills-2-a:hover{
+.content-text-skills-2-a p:hover{
     color: crimson;
 }
 
@@ -575,12 +575,111 @@
     /* border: 2px solid brown; */
 }
 
-.bullet-points{
+.skills-list{
     height: 30px;
     width: 100%;
     /* border: 2px solid greenyellow; */
 }
 
-.bullet-points p{
+.skills-list p{
     font-size: 18px;
 }
+
+.content-text-edu{
+    height: 400px;
+    width: 750px;
+    /* border: 2px solid black;  */
+    padding: 10px;
+    color:cornsilk; 
+    border: 2px solid cornsilk;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.content-text-edu:hover{
+    border: 5px solid crimson;
+    border-radius: 10px;
+}
+
+.content-text-edu-1{
+    height: 90px;
+    width: 330px;
+    /* border: 2px solid blue;   */
+}
+.content-text-edu-1 p{
+    font-size: 80px;
+    font-weight: 600;
+    color: crimson;
+    font-family: fantasy;
+}
+
+.content-text-edu-2{
+    height: 150px;
+    width: 100%;
+    margin-top: 10px;
+    /* border: 2px solid yellow;  */
+}
+
+.content-text-edu-2-a{
+    height: 50px;
+    width: 135px;
+    /* border: 2px solid pink;   */
+}
+
+.content-text-edu-2-a p{
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 500;
+}
+
+.content-text-edu-2-a p:hover{
+    color: crimson;
+}
+
+.content-text-edu-2-b{
+    height: 100px;
+    width: 100%;
+    /* border: 2px solid brown;  */
+}
+
+.edu-list{
+    height: 50px;
+    width: 100%;
+    /* border: 2px solid greenyellow;  */
+}
+
+.edu-list p{
+    font-size: 18px;
+}
+
+.content-text-edu-3{
+    height: 150px;
+    width: 100%;
+    /* border: 2px solid green; */
+}
+
+.content-text-edu-3-a{
+    height: 50px;
+    width: 250px;
+    /* border: 2px solid pink;   */
+}
+
+.content-text-edu-3-a p{
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 500;
+}
+
+.content-text-edu-3-a p:hover{
+    color: crimson;
+}
+
+.content-text-edu-3-b{
+    height: 100px;
+    width: 100%;
+    /* border: 2px solid brown;  */
+}
+
