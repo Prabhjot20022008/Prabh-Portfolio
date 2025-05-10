@@ -102,8 +102,8 @@
 }
 
 .content-text{
-    height: 325px;
-    width: 725px;
+    height: 525px;
+    width: 800px;
     /* border: 2px solid white;  */
     display: flex;
     justify-content: center;
@@ -112,11 +112,11 @@
 .content-text-holder{
     height: 300px;
     width: 700px;
-    border: 2px solid black;
+    /* border: 2px solid black; */
     padding: 10px;
-     color:cornsilk; 
-     border: 2px solid cornsilk;
-     border-radius: 10px;
+    color:cornsilk; 
+    border: 2px solid cornsilk;
+    border-radius: 10px;
 }
 
 .content-text-holder:hover{
@@ -434,13 +434,6 @@
 
 .content-text-about-1{
     height: 75px;
-    width: 300;
-    /* border: 2px solid white; */
-    
-}
-
-.content-text-about-1{
-    height: 75px;
     width: 280px;
     /* border: 2px solid blue; */
 }
@@ -464,8 +457,8 @@
 
 .content-text-about-2-a{
     height: 60px;
-    width: 100%;
-    /* border: 2px solid pink; */
+    width: 400px;
+    /* border: 2px solid pink;  */
 }
 
 .content-text-about-2-a p{
@@ -497,8 +490,8 @@
 
 .content-text-about-3-a{
     height: 60px;
-    width: 100%;
-    /* border: 2px solid pink;  */
+    width: 275px;
+    /* border: 2px solid pink;   */
 }
 
 .content-text-about-3-a p{
@@ -518,5 +511,75 @@
 }
 
 .content-text-about-3-b p{
+    font-size: 18px;
+}
+
+.content-text-skills{
+    height: 300px;
+    width: 750px;
+    /* border: 2px solid black;  */
+    padding: 10px;
+    color:cornsilk; 
+    border: 2px solid cornsilk;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.content-text-skills:hover{
+    border: 5px solid crimson;
+    border-radius: 10px;
+}
+
+.content-text-skills-1{
+    height: 90px;
+    width: 200px;
+    /* border: 2px solid blue;   */
+}
+.content-text-skills-1 p{
+    font-size: 80px;
+    font-weight: 600;
+    color: crimson;
+    font-family: fantasy;
+}
+
+.content-text-skills-2{
+    height: 200px;
+    width: 100%;
+    margin-top: 10px;
+    /* border: 2px solid yellow;  */
+}
+
+.content-text-skills-2-a{
+    height: 50px;
+    width: 350px;
+    /* border: 2px solid pink;  */
+}
+
+.content-text-skills-2-a p{
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 500;
+}
+
+.content-text-skills-2-a:hover{
+    color: crimson;
+}
+
+.content-text-skills-2-b{
+    height: 150px;
+    width: 100%;
+    /* border: 2px solid brown; */
+}
+
+.bullet-points{
+    height: 30px;
+    width: 100%;
+    /* border: 2px solid greenyellow; */
+}
+
+.bullet-points p{
     font-size: 18px;
 }
