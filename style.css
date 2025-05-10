@@ -269,9 +269,10 @@
     font-weight: 600;
 }
 
-.foot-1-name:hover{
+/* .foot-1-name:hover{
     color: crimson;
-}
+} */
+
 .foot-1-loc{
     width: 400px;
     height: 40px;
@@ -290,9 +291,9 @@
     align-items: center;
 }
 
-.foot-1-add:hover{
+/* .foot-1-add:hover{
     color: crimson;
-}
+} */
 
 .foot-1-add p{
     font-size: 22px;
@@ -357,14 +358,14 @@
     align-items: center
 }
 
-.foot-2-soc-folder p{
+.foot-2-soc p{
     font-size: 22px;
     font-weight: 600;
 }
 
-.foot-2-soc-folder p:hover{
+/* .foot-2-soc p:hover{
     color: crimson;
-}
+} */
 
 .foot-2-links-folder{
     width: 100%;
