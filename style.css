@@ -410,3 +410,113 @@
 .foot-link a:active{
     color: cornsilk;
 }
+
+/* ABOUT ME */
+
+.content-text-about{
+    height: 500px;
+    width: 700px;
+    /* border: 2px solid black; */
+    padding: 10px;
+    color:cornsilk; 
+    border: 2px solid cornsilk;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: space-between;
+}
+
+.content-text-about:hover{
+    border: 5px solid crimson;
+    border-radius: 10px;
+}
+
+.content-text-about-1{
+    height: 75px;
+    width: 300;
+    /* border: 2px solid white; */
+    
+}
+
+.content-text-about-1{
+    height: 75px;
+    width: 280px;
+    /* border: 2px solid blue; */
+}
+.content-text-about-1 p{
+    font-size: 70px;
+    font-weight: 600;
+    color: crimson;
+    font-family: fantasy;
+}
+
+/* .content-text-about-1 p:hover{
+    color: cornsilk;
+} */
+
+.content-text-about-2{
+    height: 200px;
+    width: 100%;
+    margin-top: 10px;
+    /* border: 2px solid yellow; */
+}
+
+.content-text-about-2-a{
+    height: 60px;
+    width: 100%;
+    /* border: 2px solid pink; */
+}
+
+.content-text-about-2-a p{
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 500;
+}
+
+.content-text-about-2-a:hover{
+    color: crimson;
+}
+
+.content-text-about-2-b{
+    height: 140px;
+    width: 100%;
+    /* border: 2px solid brown; */
+}
+
+.content-text-about-2-b p{
+    font-size: 18px;
+}
+
+.content-text-about-3{
+    height: 180px;
+    width: 100%;
+     /* border: 2px solid yellow;  */
+    margin-top: 10px;
+}
+
+.content-text-about-3-a{
+    height: 60px;
+    width: 100%;
+    /* border: 2px solid pink;  */
+}
+
+.content-text-about-3-a p{
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 500;
+}
+
+.content-text-about-3-a:hover{
+    color: crimson;
+}
+
+.content-text-about-3-b{
+    height: 120px;
+    width: 100%;
+    /* border: 2px solid brown;  */
+}
+
+.content-text-about-3-b p{
+    font-size: 18px;
+}
