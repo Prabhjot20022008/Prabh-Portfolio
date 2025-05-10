@@ -683,3 +683,94 @@
     /* border: 2px solid brown;  */
 }
 
+.content-text-exp{
+    height: 430px;
+    width: 700px;
+    /* border: 2px solid black;  */
+    padding: 10px;
+    color:cornsilk; 
+    border: 2px solid cornsilk;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.content-text-exp:hover{
+    border: 5px solid crimson;
+    border-radius: 10px;
+}
+
+.content-text-exp-1{
+    height: 90px;
+    width: 370px;
+    /* border: 2px solid blue;  */
+}
+.content-text-exp-1 p{
+    font-size: 80px;
+    font-weight: 600;
+    color: crimson;
+    font-family: fantasy;
+}
+
+.content-text-exp-2{
+    height: 350px;
+    width: 100%;
+    margin-top: 10px;
+    /* border: 2px solid yellow;    */
+}
+
+.content-text-exp-2-a{
+    height: 50px;
+    width: 270px;
+    /* border: 2px solid pink;     */
+}
+
+.content-text-exp-2-a p{
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 500;
+}
+
+.content-text-exp-2-a p:hover{
+    color: crimson;
+}
+
+.content-text-exp-2-b{
+    height: 300px;
+    width: 100%;
+    /* border: 2px solid white;  */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: space-between;
+}
+
+.content-text-exp-2-b-1{
+    height: 30px;
+    width: 100%;
+    /* border: 2px solid yellow;  */
+}
+
+.content-text-exp-2-b-1 p{
+    font-size: 20px;
+    font-family: fantasy;
+    color: crimson;
+}
+
+.exp-list{
+    height: 30px;
+    width: 100%;
+    /* border: 2px solid greenyellow;    */
+}
+
+.exp-list p{
+    font-size: 18px;
+}
+
+.content-text-exp-2-b-folder{
+    height: 100px;
+    width: 100%;
+    /* border: 2px solid white; */
+}
