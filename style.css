@@ -585,6 +585,13 @@
     font-size: 18px;
 }
 
+.skills-list b{
+    font-size: 20px;
+    font-family: fantasy;
+    font-weight: 300;
+    color: crimson;
+}
+
 .content-text-edu{
     height: 400px;
     width: 750px;
