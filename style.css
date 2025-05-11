@@ -56,7 +56,7 @@
 
 .nav-bar-2-linkpack{
     height: 60px;
-    width: 800px;
+    width: 900px; 
     border: 2px solid yellow;
     margin-right: 100px;
     display: flex;
@@ -230,7 +230,7 @@
     border: 2px solid cornsilk;
     border-radius: 50%;
     margin-right: 100px;
-    background-image: url("/my-pic-2.JPG");
+    background-image: url("/sample-image.webp");
     background-size: cover;
 }
 
@@ -759,6 +759,12 @@
     color: crimson;
 }
 
+.content-text-exp-2-b-2{
+    height: 60px;
+    width: 100%;
+    /* border: 2px solid chocolate; */
+}
+
 .exp-list{
     height: 30px;
     width: 100%;
@@ -773,4 +779,159 @@
     height: 100px;
     width: 100%;
     /* border: 2px solid white; */
+}
+
+.content-text-project{
+    height: 570px;
+    width: 700px;
+    /* border: 2px solid black; */
+    padding: 10px;
+    color:cornsilk; 
+    border: 2px solid cornsilk;
+    border-radius: 10px;
+}
+
+.content-text-project:hover{
+    border: 5px solid crimson;
+    border-radius: 10px;
+}
+
+.content-text-project-1{
+    height: 90px;
+    width: 275px;
+    border: 2px solid blue;  
+}
+.content-text-project-1 p{
+    font-size: 80px;
+    font-weight: 600;
+    color: crimson;
+    font-family: fantasy;
+}
+
+.content-text-project-2{
+    height: 300px;
+    width: 100%;
+    margin-top: 10px;
+    /* border: 2px solid yellow;     */
+}
+
+.content-text-project-2-a{
+    height: 50px;
+    width: 380px;
+    /* border: 2px solid pink;       */
+}
+
+.content-text-project-2-a p{
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 500;
+}
+
+.content-text-project-2-a p:hover{
+    color: crimson;
+}
+
+.content-text-project-2-b-folder{
+    height: 125px;
+    width: 100%;
+    /* border: 2px solid pink;  */
+}
+
+.content-text-project-2-b{
+    height: 250px;
+    width: 100%;
+    /* border: 2px solid white;   */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: space-between;
+}
+
+.content-text-project-2-b-1{
+    height: 30px;
+    width: 100%;
+    /* border: 2px solid yellow;   */
+}
+
+.content-text-project-2-b-1 p{
+    font-size: 20px;
+    font-family: fantasy;
+    color: crimson;
+}
+
+.content-text-project-2-b-1 b{
+    color: cornsilk;
+    font-weight: 900;
+}
+.content-text-project-2-b-2{
+    height: 90px;
+    width: 100%;
+    /* border: 2px solid chocolate; */
+}
+
+.project-list{
+    height: 30px;
+    width: 100%;
+    /* border: 2px solid green; */
+}
+
+.project-list p{
+    font-size: 18px;
+}
+
+.content-text-project-3{
+    height: 170px;
+    width: 100%;
+    /* border: 2px solid cyan; */
+}
+
+.content-text-project-3-a{
+    height: 50px;
+    width: 500px;
+    /* border: 2px solid pink;       */
+}
+
+.content-text-project-3-a p{
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 500;
+}
+
+.content-text-project-3-a p:hover{
+    color: crimson;
+}
+
+.content-text-project-3-b-folder{
+    height: 120px;
+    width: 100%;
+    /* border: 2px solid pink;  */
+}
+
+.content-text-project-3-b{
+    height: 110px;
+    width: 100%;
+    /* border: 2px solid white;   */
+    display: flex;
+}
+
+.content-text-project-3-b-1{
+    height: 30px;
+    width: 100%;
+    /* border: 2px solid yellow;   */
+}
+
+.content-text-project-3-b-1 p{
+    font-size: 20px;
+    font-family: fantasy;
+    color: crimson;
+}
+
+.content-text-project-3-b-1 b{
+    color: cornsilk;
+    font-weight: 900;
+}
+.content-text-project-3-b-2{
+    height: 90px;
+    width: 100%;
+    /* border: 2px solid chocolate; */
 }
