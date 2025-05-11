@@ -56,7 +56,7 @@
 
 .nav-bar-2-linkpack{
     height: 60px;
-    width: 800px;
+    width: 900px; 
     border: 2px solid yellow;
     margin-right: 100px;
     display: flex;
@@ -102,15 +102,15 @@
 }
 
 .content-text{
-    height: 525px;
-    width: 800px;
+    height: 600px;
+    width: 900px;
     /* border: 2px solid white;  */
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .content-text-holder{
-    height: 300px;
+    height: 275px;
     width: 700px;
     /* border: 2px solid black; */
     padding: 10px;
@@ -170,27 +170,27 @@
 }
 
 .content-text-3{
-    height: 90px;
-    width: 360px;
-    /* border: 2px solid black; */
+    height: 60px;
+    width: 405px;
+    /* border: 2px solid black;  */
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
 .content-text-3-a{
-    height: 90px;
-    width: 70px;
-    /* border: 2px solid yellow; */
+    height: 60px;
+    width: 105px;
+    /* border: 2px solid yellow;  */
     font-size: 25px;
     font-family: fantasy;
     padding-left: 3px;
 }
 
 .content-text-3-b{
-    height: 90px;
+    height: 60px;
     width: 130px;
-    /* border: 2px solid black;  */
+    /* border: 2px solid black;   */
     font-size: 30px;
     font-family: monospace;
     color:crimson;
@@ -198,17 +198,17 @@
 }
 
 .content-text-3-c{
-    height: 90px;
+    height: 60px;
     width: 50px;
-    /* border: 2px solid yellow; */
+    /* border: 2px solid yellow;  */
     font-size: 25px;
     font-family: fantasy;
 }
 
 .content-text-3-d{
-    height: 90px;
+    height: 60px;
     width: 85px;
-    /* border: 2px solid black; */
+    /* border: 2px solid black;  */
     font-size: 30px;
     font-family: monospace;
     color:crimson;
@@ -230,7 +230,7 @@
     border: 2px solid cornsilk;
     border-radius: 50%;
     margin-right: 100px;
-    background-image: url("/my-pic-2.JPG");
+    background-image: url("/sample-image.webp");
     background-size: cover;
 }
 
@@ -269,9 +269,10 @@
     font-weight: 600;
 }
 
-.foot-1-name:hover{
+/* .foot-1-name:hover{
     color: crimson;
-}
+} */
+
 .foot-1-loc{
     width: 400px;
     height: 40px;
@@ -290,9 +291,9 @@
     align-items: center;
 }
 
-.foot-1-add:hover{
+/* .foot-1-add:hover{
     color: crimson;
-}
+} */
 
 .foot-1-add p{
     font-size: 22px;
@@ -357,14 +358,14 @@
     align-items: center
 }
 
-.foot-2-soc-folder p{
+.foot-2-soc p{
     font-size: 22px;
     font-weight: 600;
 }
 
-.foot-2-soc-folder p:hover{
+/* .foot-2-soc p:hover{
     color: crimson;
-}
+} */
 
 .foot-2-links-folder{
     width: 100%;
@@ -433,12 +434,12 @@
 }
 
 .content-text-about-1{
-    height: 75px;
-    width: 280px;
-    /* border: 2px solid blue; */
+    height: 85px;
+    width: 310px;
+    /* border: 2px solid blue;  */
 }
 .content-text-about-1 p{
-    font-size: 70px;
+    font-size: 80px;
     font-weight: 600;
     color: crimson;
     font-family: fantasy;
@@ -457,8 +458,8 @@
 
 .content-text-about-2-a{
     height: 60px;
-    width: 400px;
-    /* border: 2px solid pink;  */
+    width: 500px;
+    /* border: 2px solid pink;   */
 }
 
 .content-text-about-2-a p{
@@ -467,14 +468,14 @@
     font-weight: 500;
 }
 
-.content-text-about-2-a:hover{
+.content-text-about-2-a p:hover{
     color: crimson;
 }
 
 .content-text-about-2-b{
     height: 140px;
     width: 100%;
-    /* border: 2px solid brown; */
+    /* border: 2px solid brown;  */
 }
 
 .content-text-about-2-b p{
@@ -490,8 +491,8 @@
 
 .content-text-about-3-a{
     height: 60px;
-    width: 275px;
-    /* border: 2px solid pink;   */
+    width: 325px;
+    /* border: 2px solid pink;    */
 }
 
 .content-text-about-3-a p{
@@ -516,7 +517,7 @@
 
 .content-text-skills{
     height: 300px;
-    width: 750px;
+    width: 600px;
     /* border: 2px solid black;  */
     padding: 10px;
     color:cornsilk; 
@@ -554,8 +555,8 @@
 
 .content-text-skills-2-a{
     height: 50px;
-    width: 350px;
-    /* border: 2px solid pink;  */
+    width: 400px;
+    /* border: 2px solid pink;   */
 }
 
 .content-text-skills-2-a p{
@@ -564,7 +565,7 @@
     font-weight: 500;
 }
 
-.content-text-skills-2-a:hover{
+.content-text-skills-2-a p:hover{
     color: crimson;
 }
 
@@ -574,12 +575,363 @@
     /* border: 2px solid brown; */
 }
 
-.bullet-points{
+.skills-list{
     height: 30px;
     width: 100%;
     /* border: 2px solid greenyellow; */
 }
 
-.bullet-points p{
+.skills-list p{
     font-size: 18px;
+}
+
+.content-text-edu{
+    height: 400px;
+    width: 750px;
+    /* border: 2px solid black;  */
+    padding: 10px;
+    color:cornsilk; 
+    border: 2px solid cornsilk;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.content-text-edu:hover{
+    border: 5px solid crimson;
+    border-radius: 10px;
+}
+
+.content-text-edu-1{
+    height: 90px;
+    width: 330px;
+    /* border: 2px solid blue;    */
+}
+.content-text-edu-1 p{
+    font-size: 80px;
+    font-weight: 600;
+    color: crimson;
+    font-family: fantasy;
+}
+
+.content-text-edu-2{
+    height: 150px;
+    width: 100%;
+    margin-top: 10px;
+    /* border: 2px solid yellow;  */
+}
+
+.content-text-edu-2-a{
+    height: 50px;
+    width: 200px;
+    /* border: 2px solid pink;    */
+}
+
+.content-text-edu-2-a p{
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 500;
+}
+
+.content-text-edu-2-a p:hover{
+    color: crimson;
+}
+
+.content-text-edu-2-b{
+    height: 100px;
+    width: 100%;
+    /* border: 2px solid brown;  */
+}
+
+.edu-list{
+    height: 50px;
+    width: 100%;
+    /* border: 2px solid greenyellow;  */
+}
+
+.edu-list p{
+    font-size: 18px;
+}
+
+.content-text-edu-3{
+    height: 150px;
+    width: 100%;
+    /* border: 2px solid green;  */
+}
+
+.content-text-edu-3-a{
+    height: 50px;
+    width: 300px;
+    /* border: 2px solid pink;   */
+}
+
+.content-text-edu-3-a p{
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 500;
+}
+
+.content-text-edu-3-a p:hover{
+    color: crimson;
+}
+
+.content-text-edu-3-b{
+    height: 100px;
+    width: 100%;
+    /* border: 2px solid brown;  */
+}
+
+.content-text-exp{
+    height: 430px;
+    width: 700px;
+    /* border: 2px solid black;  */
+    padding: 10px;
+    color:cornsilk; 
+    border: 2px solid cornsilk;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.content-text-exp:hover{
+    border: 5px solid crimson;
+    border-radius: 10px;
+}
+
+.content-text-exp-1{
+    height: 90px;
+    width: 370px;
+    /* border: 2px solid blue;  */
+}
+.content-text-exp-1 p{
+    font-size: 80px;
+    font-weight: 600;
+    color: crimson;
+    font-family: fantasy;
+}
+
+.content-text-exp-2{
+    height: 350px;
+    width: 100%;
+    margin-top: 10px;
+    /* border: 2px solid yellow;    */
+}
+
+.content-text-exp-2-a{
+    height: 50px;
+    width: 500px;
+    /* border: 2px solid pink;      */
+}
+
+.content-text-exp-2-a p{
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 500;
+}
+
+.content-text-exp-2-a p:hover{
+    color: crimson;
+}
+
+.content-text-exp-2-b{
+    height: 300px;
+    width: 100%;
+    /* border: 2px solid white;  */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: space-between;
+}
+
+.content-text-exp-2-b-1{
+    height: 30px;
+    width: 100%;
+    /* border: 2px solid yellow;  */
+}
+
+.content-text-exp-2-b-1 p{
+    font-size: 20px;
+    font-family: fantasy;
+    color: crimson;
+}
+
+.content-text-exp-2-b-2{
+    height: 60px;
+    width: 100%;
+    /* border: 2px solid chocolate; */
+}
+
+.exp-list{
+    height: 30px;
+    width: 100%;
+    /* border: 2px solid greenyellow;    */
+}
+
+.exp-list p{
+    font-size: 18px;
+}
+
+.content-text-exp-2-b-folder{
+    height: 100px;
+    width: 100%;
+    /* border: 2px solid white; */
+}
+
+.content-text-project{
+    height: 570px;
+    width: 700px;
+    /* border: 2px solid black; */
+    padding: 10px;
+    color:cornsilk; 
+    border: 2px solid cornsilk;
+    border-radius: 10px;
+}
+
+.content-text-project:hover{
+    border: 5px solid crimson;
+    border-radius: 10px;
+}
+
+.content-text-project-1{
+    height: 90px;
+    width: 275px;
+    border: 2px solid blue;  
+}
+.content-text-project-1 p{
+    font-size: 80px;
+    font-weight: 600;
+    color: crimson;
+    font-family: fantasy;
+}
+
+.content-text-project-2{
+    height: 300px;
+    width: 100%;
+    margin-top: 10px;
+    /* border: 2px solid yellow;     */
+}
+
+.content-text-project-2-a{
+    height: 50px;
+    width: 380px;
+    /* border: 2px solid pink;       */
+}
+
+.content-text-project-2-a p{
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 500;
+}
+
+.content-text-project-2-a p:hover{
+    color: crimson;
+}
+
+.content-text-project-2-b-folder{
+    height: 125px;
+    width: 100%;
+    /* border: 2px solid pink;  */
+}
+
+.content-text-project-2-b{
+    height: 250px;
+    width: 100%;
+    /* border: 2px solid white;   */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: space-between;
+}
+
+.content-text-project-2-b-1{
+    height: 30px;
+    width: 100%;
+    /* border: 2px solid yellow;   */
+}
+
+.content-text-project-2-b-1 p{
+    font-size: 20px;
+    font-family: fantasy;
+    color: crimson;
+}
+
+.content-text-project-2-b-1 b{
+    color: cornsilk;
+    font-weight: 900;
+}
+.content-text-project-2-b-2{
+    height: 90px;
+    width: 100%;
+    /* border: 2px solid chocolate; */
+}
+
+.project-list{
+    height: 30px;
+    width: 100%;
+    /* border: 2px solid green; */
+}
+
+.project-list p{
+    font-size: 18px;
+}
+
+.content-text-project-3{
+    height: 170px;
+    width: 100%;
+    /* border: 2px solid cyan; */
+}
+
+.content-text-project-3-a{
+    height: 50px;
+    width: 500px;
+    /* border: 2px solid pink;       */
+}
+
+.content-text-project-3-a p{
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 500;
+}
+
+.content-text-project-3-a p:hover{
+    color: crimson;
+}
+
+.content-text-project-3-b-folder{
+    height: 120px;
+    width: 100%;
+    /* border: 2px solid pink;  */
+}
+
+.content-text-project-3-b{
+    height: 110px;
+    width: 100%;
+    /* border: 2px solid white;   */
+    display: flex;
+}
+
+.content-text-project-3-b-1{
+    height: 30px;
+    width: 100%;
+    /* border: 2px solid yellow;   */
+}
+
+.content-text-project-3-b-1 p{
+    font-size: 20px;
+    font-family: fantasy;
+    color: crimson;
+}
+
+.content-text-project-3-b-1 b{
+    color: cornsilk;
+    font-weight: 900;
+}
+.content-text-project-3-b-2{
+    height: 90px;
+    width: 100%;
+    /* border: 2px solid chocolate; */
 }
