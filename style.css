@@ -110,7 +110,7 @@
     align-items: center;
 }
 .content-text-holder{
-    height: 300px;
+    height: 275px;
     width: 700px;
     /* border: 2px solid black; */
     padding: 10px;
@@ -170,27 +170,27 @@
 }
 
 .content-text-3{
-    height: 90px;
-    width: 360px;
-    /* border: 2px solid black; */
+    height: 60px;
+    width: 405px;
+    /* border: 2px solid black;  */
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
 .content-text-3-a{
-    height: 90px;
-    width: 70px;
-    /* border: 2px solid yellow; */
+    height: 60px;
+    width: 105px;
+    /* border: 2px solid yellow;  */
     font-size: 25px;
     font-family: fantasy;
     padding-left: 3px;
 }
 
 .content-text-3-b{
-    height: 90px;
+    height: 60px;
     width: 130px;
-    /* border: 2px solid black;  */
+    /* border: 2px solid black;   */
     font-size: 30px;
     font-family: monospace;
     color:crimson;
@@ -198,17 +198,17 @@
 }
 
 .content-text-3-c{
-    height: 90px;
+    height: 60px;
     width: 50px;
-    /* border: 2px solid yellow; */
+    /* border: 2px solid yellow;  */
     font-size: 25px;
     font-family: fantasy;
 }
 
 .content-text-3-d{
-    height: 90px;
+    height: 60px;
     width: 85px;
-    /* border: 2px solid black; */
+    /* border: 2px solid black;  */
     font-size: 30px;
     font-family: monospace;
     color:crimson;
@@ -458,8 +458,8 @@
 
 .content-text-about-2-a{
     height: 60px;
-    width: 400px;
-    /* border: 2px solid pink;  */
+    width: 500px;
+    /* border: 2px solid pink;   */
 }
 
 .content-text-about-2-a p{
@@ -475,7 +475,7 @@
 .content-text-about-2-b{
     height: 140px;
     width: 100%;
-    /* border: 2px solid brown; */
+    /* border: 2px solid brown;  */
 }
 
 .content-text-about-2-b p{
@@ -491,8 +491,8 @@
 
 .content-text-about-3-a{
     height: 60px;
-    width: 275px;
-    /* border: 2px solid pink;   */
+    width: 325px;
+    /* border: 2px solid pink;    */
 }
 
 .content-text-about-3-a p{
@@ -555,8 +555,8 @@
 
 .content-text-skills-2-a{
     height: 50px;
-    width: 350px;
-    /* border: 2px solid pink;  */
+    width: 400px;
+    /* border: 2px solid pink;   */
 }
 
 .content-text-skills-2-a p{
@@ -607,7 +607,7 @@
 .content-text-edu-1{
     height: 90px;
     width: 330px;
-    /* border: 2px solid blue;   */
+    /* border: 2px solid blue;    */
 }
 .content-text-edu-1 p{
     font-size: 80px;
@@ -625,8 +625,8 @@
 
 .content-text-edu-2-a{
     height: 50px;
-    width: 135px;
-    /* border: 2px solid pink;   */
+    width: 200px;
+    /* border: 2px solid pink;    */
 }
 
 .content-text-edu-2-a p{
@@ -658,12 +658,12 @@
 .content-text-edu-3{
     height: 150px;
     width: 100%;
-    /* border: 2px solid green; */
+    /* border: 2px solid green;  */
 }
 
 .content-text-edu-3-a{
     height: 50px;
-    width: 250px;
+    width: 300px;
     /* border: 2px solid pink;   */
 }
 
