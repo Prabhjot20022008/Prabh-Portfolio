@@ -477,10 +477,6 @@
     font-weight: 500;
 }
 
-.content-text-about-2-a p:hover{
-    color: crimson;
-}
-
 .content-text-about-2-b{
     height: 140px;
     width: 100%;
@@ -508,10 +504,6 @@
     font-size: 40px;
     font-family: fantasy;
     font-weight: 500;
-}
-
-.content-text-about-3-a:hover{
-    color: crimson;
 }
 
 .content-text-about-3-b{
@@ -572,10 +564,6 @@
     font-size: 40px;
     font-family: fantasy;
     font-weight: 500;
-}
-
-.content-text-skills-2-a p:hover{
-    color: crimson;
 }
 
 .content-text-skills-2-b{
@@ -651,10 +639,6 @@
     font-weight: 500;
 }
 
-.content-text-edu-2-a p:hover{
-    color: crimson;
-}
-
 .content-text-edu-2-b{
     height: 100px;
     width: 100%;
@@ -687,10 +671,6 @@
     font-size: 40px;
     font-family: fantasy;
     font-weight: 500;
-}
-
-.content-text-edu-3-a p:hover{
-    color: crimson;
 }
 
 .content-text-edu-3-b{
@@ -747,10 +727,6 @@
     font-size: 40px;
     font-family: fantasy;
     font-weight: 500;
-}
-
-.content-text-exp-2-a p:hover{
-    color: crimson;
 }
 
 .content-text-exp-2-b{
@@ -842,10 +818,6 @@
     font-weight: 500;
 }
 
-.content-text-project-2-a p:hover{
-    color: crimson;
-}
-
 .content-text-project-2-b-folder{
     height: 125px;
     width: 100%;
@@ -912,10 +884,6 @@
     font-weight: 500;
 }
 
-.content-text-project-3-a p:hover{
-    color: crimson;
-}
-
 .content-text-project-3-b-folder{
     height: 120px;
     width: 100%;
@@ -941,7 +909,7 @@
     color: crimson;
 }
 
-.content-text-project-3-b-1 b{
+b{
     color: cornsilk;
     font-weight: 900;
 }
