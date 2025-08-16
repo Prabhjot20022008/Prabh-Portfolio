@@ -239,12 +239,14 @@
     border: 2px solid cornsilk;
     border-radius: 50%;
     margin-right: 100px;
-    background-image: url("/sample-image.webp");
+    background-image: url("/my-pic-2.JPG");
     background-size: cover;
+    opacity: 0.75;
 }
 
 .content-img-holder:hover{
     border: 5px solid crimson;
+    opacity: 1;
 }
 
 .footer{
@@ -283,6 +285,7 @@
 }
 
 .foot-1-name-icon i{
+    color: cornsilk;
     font-size: 26px;
     font-weight: 900;
 }
